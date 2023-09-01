@@ -7,7 +7,7 @@ const App = () => {
   const defaultColors = [
     { hex: '#FF5733', name: 'Red' },
     { hex: '#FFC300', name: 'Yellow' },
-    { hex: '#33FF57', name: 'Green' },
+    { hex: '#008000', name: 'Green' },
     { hex: '#339CFF', name: 'Blue' },
     { hex: '#9933FF', name: 'Purple' },
     { hex: '#FF33E9', name: 'Pink' },
