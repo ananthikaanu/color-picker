@@ -1,4 +1,4 @@
-/* CustomColorInput.css */
+
 .custom-input {
     display: flex;
     align-items: center;
@@ -21,8 +21,6 @@
     border: 4px  white;
     border-radius: 6px;
     cursor: pointer;
-    transition: background-color 0.2s;
-  
   }
   
   button:hover {

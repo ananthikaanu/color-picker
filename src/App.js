@@ -25,7 +25,7 @@ const App = () => {
   const handleCustomColorChange = (event) => {
     const newColor = event.target.value;
     setCustomColor(newColor);
-    // setBackgroundColor(newColor);
+
   };
 
   const handleCustomColorSubmit = () => {
